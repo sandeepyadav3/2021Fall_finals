@@ -1,6 +1,6 @@
 # World Poverty Measure
 Group Prooject
-Project contributers: 
+Project contributers: Sandeep Pala Sreeramulu, Thashma Nellira Ragunanda, Akshat Gupta
 Project Topic: World Poverty Measure
 
 Introducton:
