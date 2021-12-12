@@ -42,10 +42,6 @@ When given the highest weights to the NUtrietion, Child Mortality rate and Years
 
 Similarly, changing the weights further showed different insights as follows: 
 
-When Nutrition, Year of Schooling and School attendence were given the highest weights the graphs the list obtained was (Having a match of 32% between MPI index and World bank ratings):
-![image](https://user-images.githubusercontent.com/89531599/145723653-f91d0901-24ec-471b-abf9-e9d245f30775.png)
-
-
 When factors like drinking water, electricity, housing and assets were given the higher weights; resulted in a 33.33% accuracy. The resulting list of ranking is:
 
 ![image](https://user-images.githubusercontent.com/89531599/145723672-f4afb098-c48d-4494-a797-c978241814c8.png)
